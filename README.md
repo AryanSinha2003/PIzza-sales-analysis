@@ -1,5 +1,6 @@
 # PIzza-sales-analysis
 Created multiple interactive Power BI dashboards for the anylasis of pizza sales and drawn insights.
+You can access the live dasboard here : https://app.powerbi.com/groups/me/reports/280988df-aa32-456e-ac8e-6e8cf0709e44/ReportSection?experience=power-bi
 
 THE HOME PAGE OF THE DASHBOARD
 
